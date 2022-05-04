@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro Odoo
+# Tutorial Intro Odoo 15 V002
 
 Mari kita belajar Odoo 
 
