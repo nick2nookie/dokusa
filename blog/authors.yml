@@ -11,7 +11,14 @@ yangshun:
   image_url: https://github.com/yangshun.png
 
 slorber:
-  name: Sébastien Lorber
+  name:  Nicku Pasaribu
   title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+  url: https://github.com/nick2nookie
+  image_url: https://github.com/nick2nookie.png
+
+
+nicku:
+  name:  Nicku Pasaribu
+  title: Docu Site maintainer
+  url: https://github.com/nick2nookie
+  image_url: https://github.com/nick2nookie.png
