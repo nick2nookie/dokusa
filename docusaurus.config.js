@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'nick2nookie Site',
   tagline: 'Nick2Nookie is Cool Site',
-  url: 'https://github.com/nick2nookie/dokusa',
-  baseUrl: '/',
+  url: 'https://github.com/nick2nookie/',
+  baseUrl: '/dokusa/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
